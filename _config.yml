@@ -6,9 +6,9 @@ color:
   saturation: 0.8725023579318076
   rhythmicContrast: 0.40291012031957507
   brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: Heart Knowledge
